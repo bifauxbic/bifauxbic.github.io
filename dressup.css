@@ -1,0 +1,208 @@
+#container {
+  position: absolute;
+  width: 700px;
+  height: 700px;
+}
+#background {
+  position: absolute;
+  width: 700px;
+  height: 700px;
+  background-color: #ffcce6;
+}
+#base {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+  background-image: url("https://i1.lensdump.com/i/0ppcyA.png");
+}
+#hair {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+}
+#shoes {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+}
+#bottom {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+}
+#top {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+}
+#button-container {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  left: 100px;
+  right: 100px;
+}
+#buttons {
+  position: absolute;
+  width: 500px;
+  height: 200px;
+  top: 100%;
+  left: 20%;
+}
+#play {
+  position: absolute;
+  width: 700px;
+  height: 700px;
+  background-color: #ffcce6;
+}
+#playbutton {
+  width: 150px;
+  height: 100px;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  margin: -50px 0 0 -75px;
+  background-color: white;
+  color: #ffcce6;
+  border-radius: 20px;
+  font-size: 30px;
+  border: 5px solid #ffcce6;
+}
+#speech {
+  width: 500px;
+  height: 200px;
+  position: absolute;
+  margin: -100px 0 0 -250px;
+  left: 50%;
+  bottom: -4%;
+}
+
+.button {
+  background-color: white;
+  color: #ff6699;
+  padding: 5px 9px;
+  border: 2px solid #ff6699;
+  border-radius: 12px;
+  transition-duration: 0.4s;
+  font-size: 20px;
+}
+.button:hover {
+  background-color: #ff6699;
+  color: white;
+}
+
+.hair1 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0p78Q1.png");
+}
+.hair2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0p7Aec.png");
+}
+.hair3 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0p7WyK.png");
+}
+.hair4 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0p7jTZ.png");
+}
+.hair5 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0HiVyT.png");
+}
+
+.shoes1 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0pHNoo.png");
+}
+.shoes2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0pHDmi.png");
+}
+.shoes3 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0HjjsF.png");
+}
+
+.bottom1 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0ppGmk.png");
+}
+.bottom2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0pp5Ie.png");
+}
+.bottom3 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0ppaox.png");
+}
+.bottom4 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0p728H.png");
+}
+
+.top1 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0p707P.png");
+}
+.top2 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0p7IUm.png");
+}
+.top3 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0p7gZi.png");
+}
+.top4 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i.lensdump.com/i/0p7rmo.png");
+}
+.top5 {
+  position: absolute;
+  width: 500px;
+  height: 500px;
+  background-image: url("https://i1.lensdump.com/i/0p7tu9.png");
+}
